@@ -1,0 +1,290 @@
+[{
+  "_id": {
+    "$oid": "6616579ae384710d156b0bef"
+  },
+  "phone_number": {
+    "$numberLong": "9876543210"
+  },
+  "price_per_hour": 40,
+  "imageurls": [
+    "https://lh3.googleusercontent.com/p/AF1QipPaZS6lUBqRpiLu4QraEELf7JFdhl-bQB50UM0U=s1360-w1360-h1020-rw",
+    "https://www.opiniatimisoarei.ro/wp-content/uploads/2018/09/teren-sintetic-fotbal-709x336.jpg",
+    "https://www.poliarena.ro/wp-content/uploads/2020/06/ansamblu-scaled.jpg"
+  ],
+  "currentbookings": [
+    {
+      "ground": "Baza Sportiva Politehnica",
+      "groundid": "6616579ae384710d156b0bef",
+      "userid": "662103ee7714191bda98a21d",
+      "selectedDate": "30-04-2024",
+      "fromtime": "05:00",
+      "totime": "07:00",
+      "totalamount": 80,
+      "totalhours": 2,
+      "transactionId": "1234",
+      "status": "rezervat",
+      "_id": {
+        "$oid": "662d6ebf1b2a1868b4f09a1f"
+      },
+      "createdAt": {
+        "$date": "2024-04-27T21:31:43.942Z"
+      },
+      "updatedAt": {
+        "$date": "2024-04-27T21:31:43.942Z"
+      },
+      "__v": 0
+    },
+    {
+      "ground": "Baza Sportiva Politehnica",
+      "groundid": "6616579ae384710d156b0bef",
+      "userid": "662103ee7714191bda98a21d",
+      "selectedDate": "30-04-2024",
+      "fromtime": "09:00",
+      "totime": "12:00",
+      "totalamount": 120,
+      "totalhours": 3,
+      "transactionId": "1234",
+      "status": "rezervat",
+      "_id": {
+        "$oid": "66314e17209f317816dae7a3"
+      },
+      "createdAt": {
+        "$date": "2024-04-30T20:01:27.244Z"
+      },
+      "updatedAt": {
+        "$date": "2024-04-30T20:01:27.244Z"
+      },
+      "__v": 0
+    },
+    {
+      "ground": "Baza Sportiva Politehnica",
+      "groundid": "6616579ae384710d156b0bef",
+      "userid": "662103ee7714191bda98a21d",
+      "selectedDate": "03-05-2024",
+      "fromtime": "15:00",
+      "totime": "17:00",
+      "totalamount": 80,
+      "totalhours": 2,
+      "transactionId": "1234",
+      "status": "rezervat",
+      "_id": {
+        "$oid": "663372fd5f43e950823f4543"
+      },
+      "createdAt": {
+        "$date": "2024-05-02T11:03:25.407Z"
+      },
+      "updatedAt": {
+        "$date": "2024-05-02T11:03:25.407Z"
+      },
+      "__v": 0
+    },
+    {
+      "ground": "Baza Sportiva Politehnica",
+      "groundid": "6616579ae384710d156b0bef",
+      "userid": "662103ee7714191bda98a21d",
+      "selectedDate": "14-05-2024",
+      "fromtime": "05:00",
+      "totime": "09:00",
+      "totalamount": 160,
+      "totalhours": 4,
+      "transactionId": "1234",
+      "status": "rezervat",
+      "_id": {
+        "$oid": "6634dd3fbabc8b153e8913c0"
+      },
+      "createdAt": {
+        "$date": "2024-05-03T12:49:03.337Z"
+      },
+      "updatedAt": {
+        "$date": "2024-05-03T12:49:03.337Z"
+      },
+      "__v": 0
+    }
+  ],
+  "facilities": "Gazon natural, vestiare",
+  "date": "2024-03-18T14:00:00Z",
+  "description": "Baza Sportivă a Politehnicii București este o destinație ideală pentru evenimente sportive, antrenamente și diverse activități recreative. Situată într-o locație convenabilă în București, această bază oferă facilități moderne, terenuri bine întreținute și echipamente de calitate pentru a satisface diverse nevoi sportive. Cu o gamă largă de terenuri și facilități, inclusiv terenuri de fotbal, tenis, baschet și multe altele, Baza Sportivă a Politehnicii este potrivită pentru competiții, antrenamente de echipă sau activități recreative pentru toate vârstele și nivelurile de aptitudine. ",
+  "__v": 4,
+  "updatedAt": {
+    "$date": "2024-05-03T12:49:03.439Z"
+  },
+  "name": "Baza Sportiva Politehnica"
+},
+{
+  "_id": {
+    "$oid": "6616579ae384710d156b0bf0"
+  },
+  "phone_number": {
+    "$numberLong": "5555555555"
+  },
+  "price_per_hour": 30,
+  "imageurls": [
+    "https://lh3.googleusercontent.com/p/AF1QipOgO7HrnDipRvc9p-BEUUjOEl2PFsbVIFOLo6My=s1360-w1360-h1020-rw",
+    "https://championfotbal.ro/images/champion-fotbal-arena5.jpg",
+    "https://championfotbal.ro/images/champion-fotbal-arena1.jpg"
+  ],
+  "currentbookings": [
+    {
+      "ground": "Champions Club Football Arena",
+      "groundid": "6616579ae384710d156b0bf0",
+      "userid": "662103ee7714191bda98a21d",
+      "selectedDate": "02-05-2024",
+      "fromtime": "05:00",
+      "totime": "07:00",
+      "totalamount": 60,
+      "totalhours": 2,
+      "transactionId": "1234",
+      "status": "rezervat",
+      "_id": {
+        "$oid": "66336a48db07622227bff6b6"
+      },
+      "createdAt": {
+        "$date": "2024-05-02T10:26:16.961Z"
+      },
+      "updatedAt": {
+        "$date": "2024-05-02T10:26:16.961Z"
+      },
+      "__v": 0
+    },
+    {
+      "ground": "Champions Club Football Arena",
+      "groundid": "6616579ae384710d156b0bf0",
+      "userid": "662103ee7714191bda98a21d",
+      "selectedDate": "05-05-2024",
+      "fromtime": "19:00",
+      "totime": "22:00",
+      "totalamount": 90,
+      "totalhours": 3,
+      "transactionId": "1234",
+      "status": "rezervat",
+      "_id": {
+        "$oid": "663382514dc446506f2f1f21"
+      },
+      "createdAt": {
+        "$date": "2024-05-02T12:08:49.718Z"
+      },
+      "updatedAt": {
+        "$date": "2024-05-02T12:08:49.718Z"
+      },
+      "__v": 0
+    },
+    {
+      "ground": "Champions Club Football Arena",
+      "groundid": "6616579ae384710d156b0bf0",
+      "userid": "662103ee7714191bda98a21d",
+      "selectedDate": "07-05-2024",
+      "fromtime": "12:00",
+      "totime": "16:00",
+      "totalamount": 120,
+      "totalhours": 4,
+      "transactionId": "1234",
+      "status": "rezervat",
+      "_id": {
+        "$oid": "6634de78713556061cd31bc4"
+      },
+      "createdAt": {
+        "$date": "2024-05-03T12:54:16.122Z"
+      },
+      "updatedAt": {
+        "$date": "2024-05-03T12:54:16.122Z"
+      },
+      "__v": 0
+    }
+  ],
+  "facilities": "Teren mic pentru copii, loc de joacă",
+  "date": "2024-03-19T10:00:00Z",
+  "description": "Champions Club Football Arena este o destinație de elită pentru pasionații de fotbal, oferind o experiență de neuitat pentru evenimentele sportive și private. Situată într-o locație prestigioasă, această arenă de fotbal este dotată cu cele mai moderne facilități și echipamente de înaltă calitate. Cu terenuri de fotbal de ultimă generație, amplasate într-un cadru spectaculos, Champions Club Football Arena este locul ideal pentru meciuri de fotbal de înalt nivel, antrenamente de performanță sau evenimente corporate exclusiviste.",
+  "__v": 3,
+  "updatedAt": {
+    "$date": "2024-05-03T12:54:16.218Z"
+  },
+  "name": "Champions Club Football Arena"
+},
+{
+  "_id": {
+    "$oid": "6616579ae384710d156b0bee"
+  },
+  "phone_number": 1234567890,
+  "price_per_hour": 50,
+  "imageurls": [
+    "https://www.csasteaua.ro/wp-content/uploads/2022/03/STADION-2.jpg",
+    "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTAxZGlnaXMucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIwJTJGMDgl/MkYwMiUyRjEyMTIyNTJfMTIxMjI1Ml9T/dGFkaW9uLVN0ZWF1YS5qcGcmdz0xMDYw/Jmg9NjM2JnpjPTEmaGFzaD1iZmJjNmU5/ZDBhMGFjYzRmMGI1MjQzYmUwMjIyMjU0Zg==.thumb.jpg",
+    "https://image.stirileprotv.ro/media/images/800x450/Jul2023/62367669.jpg"
+  ],
+  "currentbookings": [
+    {
+      "ground": "Stadionul Ghencea",
+      "groundid": "6616579ae384710d156b0bee",
+      "userid": "662103ee7714191bda98a21d",
+      "selectedDate": "01-05-2024",
+      "fromtime": "07:00",
+      "totime": "09:00",
+      "totalamount": 100,
+      "totalhours": 2,
+      "transactionId": "1234",
+      "status": "rezervat",
+      "_id": {
+        "$oid": "662e2350a67f232f0b2d30c8"
+      },
+      "createdAt": {
+        "$date": "2024-04-28T10:22:08.756Z"
+      },
+      "updatedAt": {
+        "$date": "2024-04-28T10:22:08.756Z"
+      },
+      "__v": 0
+    },
+    {
+      "ground": "Stadionul Ghencea",
+      "groundid": "6616579ae384710d156b0bee",
+      "userid": "662103ee7714191bda98a21d",
+      "selectedDate": "06-05-2024",
+      "fromtime": "05:00",
+      "totime": "09:00",
+      "totalamount": 200,
+      "totalhours": 4,
+      "transactionId": "1234",
+      "status": "rezervat",
+      "_id": {
+        "$oid": "66338347058501c91666b08b"
+      },
+      "createdAt": {
+        "$date": "2024-05-02T12:12:55.855Z"
+      },
+      "updatedAt": {
+        "$date": "2024-05-02T12:12:55.855Z"
+      },
+      "__v": 0
+    },
+    {
+      "ground": "Stadionul Ghencea",
+      "groundid": "6616579ae384710d156b0bee",
+      "userid": "662103ee7714191bda98a21d",
+      "selectedDate": "21-05-2024",
+      "fromtime": "18:00",
+      "totime": "21:00",
+      "totalamount": 150,
+      "totalhours": 3,
+      "transactionId": "1234",
+      "status": "rezervat",
+      "_id": {
+        "$oid": "6634ddcd33c017e6483119c7"
+      },
+      "createdAt": {
+        "$date": "2024-05-03T12:51:25.334Z"
+      },
+      "updatedAt": {
+        "$date": "2024-05-03T12:51:25.334Z"
+      },
+      "__v": 0
+    }
+  ],
+  "facilities": "Iluminat nocturn",
+  "date": "2024-03-17T12:00:00Z",
+  "description": "Stadionul Ghencea, situat în București, este o emblemă a fotbalului românesc, fiind recunoscut pentru istoria sa bogată și atmosfera vibrantă pe care o oferă. Cu o capacitate de aproximativ [numărul de locuri], acest stadion este potrivit pentru diverse evenimente sportive și culturale, precum meciuri de fotbal, concerte sau evenimente corporative.",
+  "__v": 3,
+  "updatedAt": {
+    "$date": "2024-05-03T12:51:25.420Z"
+  },
+  "name": "Stadionul Ghencea"
+}]

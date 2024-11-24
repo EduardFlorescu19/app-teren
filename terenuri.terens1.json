@@ -1,0 +1,245 @@
+[{
+  "_id": {
+    "$oid": "6616579ae384710d156b0bef"
+  },
+  "phone_number": {
+    "$numberLong": "9876543210"
+  },
+  "price_per_hour": 40,
+  "imageurls": [
+    "https://lh3.googleusercontent.com/p/AF1QipPaZS6lUBqRpiLu4QraEELf7JFdhl-bQB50UM0U=s1360-w1360-h1020-rw",
+    "https://www.opiniatimisoarei.ro/wp-content/uploads/2018/09/teren-sintetic-fotbal-709x336.jpg",
+    "https://www.poliarena.ro/wp-content/uploads/2020/06/ansamblu-scaled.jpg"
+  ],
+  "currentbookings": [
+    {
+      "ground": "Baza Sportiva Politehnica",
+      "groundid": "6616579ae384710d156b0bef",
+      "userid": "662103ee7714191bda98a21d",
+      "selectedDate": "30-04-2024",
+      "fromtime": "05:00",
+      "totime": "07:00",
+      "totalamount": 80,
+      "totalhours": 2,
+      "transactionId": "1234",
+      "status": "rezervat",
+      "_id": {
+        "$oid": "662d6ebf1b2a1868b4f09a1f"
+      },
+      "createdAt": {
+        "$date": "2024-04-27T21:31:43.942Z"
+      },
+      "updatedAt": {
+        "$date": "2024-04-27T21:31:43.942Z"
+      },
+      "__v": 0
+    },
+    {
+      "ground": "Baza Sportiva Politehnica",
+      "groundid": "6616579ae384710d156b0bef",
+      "userid": "66210f854483bb7994f84f38",
+      "selectedDate": "18-06-2024",
+      "fromtime": "07:00",
+      "totime": "11:00",
+      "totalamount": 160,
+      "totalhours": 4,
+      "transactionId": "1234",
+      "status": "rezervat",
+      "_id": {
+        "$oid": "666456ab0e6383fa8ef6ebe7"
+      },
+      "createdAt": {
+        "$date": "2024-06-08T13:03:39.094Z"
+      },
+      "updatedAt": {
+        "$date": "2024-06-08T13:03:39.094Z"
+      },
+      "__v": 0
+    }
+  ],
+  "facilities": "Gazon natural, vestiare",
+  "description": "Baza Sportivă a Politehnicii București este o destinație ideală pentru evenimente sportive, antrenamente și diverse activități recreative. Situată într-o locație convenabilă în București, această bază oferă facilități moderne, terenuri bine întreținute și echipamente de calitate pentru a satisface diverse nevoi sportive. Cu o gamă largă de terenuri și facilități, inclusiv terenuri de fotbal, tenis, baschet și multe altele, Baza Sportivă a Politehnicii este potrivită pentru competiții, antrenamente de echipă sau activități recreative pentru toate vârstele și nivelurile de aptitudine. ",
+  "__v": 8,
+  "updatedAt": {
+    "$date": "2024-06-08T13:03:39.227Z"
+  },
+  "name": "Baza Sportiva Politehnica"
+},
+{
+  "_id": {
+    "$oid": "6616579ae384710d156b0bf0"
+  },
+  "phone_number": {
+    "$numberLong": "5555555555"
+  },
+  "price_per_hour": 30,
+  "imageurls": [
+    "https://lh3.googleusercontent.com/p/AF1QipOgO7HrnDipRvc9p-BEUUjOEl2PFsbVIFOLo6My=s1360-w1360-h1020-rw",
+    "https://championfotbal.ro/images/champion-fotbal-arena5.jpg",
+    "https://championfotbal.ro/images/champion-fotbal-arena1.jpg"
+  ],
+  "currentbookings": [
+    {
+      "ground": "Champions Club Football Arena",
+      "groundid": "6616579ae384710d156b0bf0",
+      "userid": "662103ee7714191bda98a21d",
+      "selectedDate": "07-05-2024",
+      "fromtime": "12:00",
+      "totime": "16:00",
+      "totalamount": 120,
+      "totalhours": 4,
+      "transactionId": "1234",
+      "status": "rezervat",
+      "_id": {
+        "$oid": "6634de78713556061cd31bc4"
+      },
+      "createdAt": {
+        "$date": "2024-05-03T12:54:16.122Z"
+      },
+      "updatedAt": {
+        "$date": "2024-05-03T12:54:16.122Z"
+      },
+      "__v": 0
+    },
+    {
+      "ground": "Champions Club Football Arena",
+      "groundid": "6616579ae384710d156b0bf0",
+      "userid": "66210f854483bb7994f84f38",
+      "selectedDate": "09-05-2024",
+      "fromtime": "04:00",
+      "totime": "08:00",
+      "totalamount": 120,
+      "totalhours": 4,
+      "transactionId": "1234",
+      "status": "rezervat",
+      "_id": {
+        "$oid": "6639ec3b7c0faff484766617"
+      },
+      "createdAt": {
+        "$date": "2024-05-07T08:54:19.028Z"
+      },
+      "updatedAt": {
+        "$date": "2024-05-07T08:54:19.028Z"
+      },
+      "__v": 0
+    }
+  ],
+  "facilities": "Teren mic pentru copii, loc de joacă",
+  "description": "Champions Club Football Arena este o destinație de elită pentru pasionații de fotbal, oferind o experiență de neuitat pentru evenimentele sportive și private. Situată într-o locație prestigioasă, această arenă de fotbal este dotată cu cele mai moderne facilități și echipamente de înaltă calitate. Cu terenuri de fotbal de ultimă generație, amplasate într-un cadru spectaculos, Champions Club Football Arena este locul ideal pentru meciuri de fotbal de înalt nivel, antrenamente de performanță sau evenimente corporate exclusiviste.",
+  "__v": 6,
+  "updatedAt": {
+    "$date": "2024-05-19T17:25:37.182Z"
+  },
+  "name": "Champions Club Football Arena"
+},
+{
+  "_id": {
+    "$oid": "6616579ae384710d156b0bee"
+  },
+  "phone_number": 1234567890,
+  "price_per_hour": 50,
+  "imageurls": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/10/Stadionul_Steaua%2C_5_July_2023.jpg",
+    "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTAxZGlnaXMucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIwJTJGMDgl/MkYwMiUyRjEyMTIyNTJfMTIxMjI1Ml9T/dGFkaW9uLVN0ZWF1YS5qcGcmdz0xMDYw/Jmg9NjM2JnpjPTEmaGFzaD1iZmJjNmU5/ZDBhMGFjYzRmMGI1MjQzYmUwMjIyMjU0Zg==.thumb.jpg",
+    "https://image.stirileprotv.ro/media/images/800x450/Jul2023/62367669.jpg"
+  ],
+  "currentbookings": [
+    {
+      "ground": "Stadionul Ghencea",
+      "groundid": "6616579ae384710d156b0bee",
+      "userid": "662103ee7714191bda98a21d",
+      "selectedDate": "01-05-2024",
+      "fromtime": "07:00",
+      "totime": "09:00",
+      "totalamount": 100,
+      "totalhours": 2,
+      "transactionId": "1234",
+      "status": "rezervat",
+      "_id": {
+        "$oid": "662e2350a67f232f0b2d30c8"
+      },
+      "createdAt": {
+        "$date": "2024-04-28T10:22:08.756Z"
+      },
+      "updatedAt": {
+        "$date": "2024-04-28T10:22:08.756Z"
+      },
+      "__v": 0
+    }
+  ],
+  "facilities": "Iluminat nocturn",
+  "description": "Stadionul Ghencea, situat în București, este o emblemă a fotbalului românesc, fiind recunoscut pentru istoria sa bogată și atmosfera vibrantă pe care o oferă. Cu o capacitate de aproximativ [numărul de locuri], acest stadion este potrivit pentru diverse evenimente sportive și culturale, precum meciuri de fotbal, concerte sau evenimente corporative.",
+  "__v": 7,
+  "updatedAt": {
+    "$date": "2024-05-23T10:49:18.856Z"
+  },
+  "name": "Stadionul Ghencea"
+},
+{
+  "_id": {
+    "$oid": "66361c4b7b069d65f7a61061"
+  },
+  "phone_number": 77421721,
+  "price_per_hour": 80,
+  "imageurls": [
+    "https://lh3.googleusercontent.com/p/AF1QipNe4gOXmFgiV_U8cTOYWTOUhrpRgjzsKGle47SX=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/p/AF1QipPyDSlPIrvjfPBpZvbeXd57MAgAwu9GfOHdbv52=s1360-w1360-h1020-rw",
+    "https://lh3.googleusercontent.com/p/AF1QipOHHoqy6dS6D1yq0q6AitK-SNOUWX0Om8DXUzrj=s1360-w1360-h1020-rw"
+  ],
+  "currentbookings": [],
+  "facilities": "Gazon bine întreținut, Iluminare, Vestiare și facilități sanitare",
+  "description": "Terenul de fotbal Mirano emană o atmosferă vibrantă, îmbinând pasiunea pentru sport cu frumusețea naturală a locului",
+  "__v": 5,
+  "updatedAt": {
+    "$date": "2024-05-04T12:20:29.346Z"
+  },
+  "name": "Teren Fotbal Mirano"
+},
+{
+  "_id": {
+    "$oid": "663d1480a0cb21aebbca1345"
+  },
+  "name": "Stadionul Național de Rugby \"Arcul de Triumf\"",
+  "phone_number": {
+    "$numberLong": "4792710922"
+  },
+  "price_per_hour": 300,
+  "imageurls": [
+    "https://rugbyromania.ro/wp-content/uploads/2022/01/RPS_3218.jpg",
+    "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTAxZGlnaXMucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIwJTJGMDkl/MkYwOSUyRjEyMjU4OThfMTIyNTg5OF9X/aGF0c0FwcC1JbWFnZS0yMDIwLTA5LTA5/LWF0LTIyXzI3XzAzLmpwZWcmdz03MDAm/aD00MjAmaGFzaD0wODQ1ZWNlMmRiM2NiODM3NGJkZmZlOWYzMTYyZjYxOA==.thumb.jpg",
+    "https://www.bursa.ro/_img/articole/mare/414308.jpg"
+  ],
+  "currentbookings": [],
+  "facilities": "săli de conferințe, de expunere, restaurant, bazin de înot, parcare subterană",
+  "description": "Stadionul Național de Rugby Arcul de Triumf a fost un stadion polivalent din București, amplasat în Sectorul 1, pe Bulevardul Mărăști, lângă Arcul de Triumf al cărui nume îl poartă.",
+  "createdAt": {
+    "$date": "2024-05-09T18:22:56.682Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T18:22:56.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663d197f133235f7a465cf25"
+  },
+  "name": "Tenis Club Mircea Eliade",
+  "phone_number": 43545312,
+  "price_per_hour": 30,
+  "imageurls": [
+    "https://nearbyplayer.s3.eu-central-1.amazonaws.com/locations_img/1668767796315_618e6f3111c5fcfb0d75f424.jpeg",
+    "https://www.opentenis.ro/admin/pictures/DSCN1092.JPG",
+    "https://www.opentenis.ro/admin/pictures/IMG_0036.JPG"
+  ],
+  "currentbookings": [],
+  "facilities": "Iluminat de noapte pentru jocul în orele de seară, Scaune pentru spectatori, Toalete și vestiare pentru jucători",
+  "description": "Tenis Club Mircea Eliade este un teren de tenis de înaltă calitate, situat într-o zonă frumoasă și liniștită. Terenul este dotat cu o suprafață de joc de calitate superioară, care oferă o experiență de joc excelentă.",
+  "createdAt": {
+    "$date": "2024-05-09T18:44:15.425Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-09T18:44:15.425Z"
+  },
+  "__v": 0
+}]

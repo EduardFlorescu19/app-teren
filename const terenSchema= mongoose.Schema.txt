@@ -1,0 +1,26 @@
+const terenSchema= mongoose.Schema({
+    location: {
+        type: String,
+        required: true
+    },
+    phone_number: {
+        type: Number,
+        required: true
+    },
+    price_per_hour:{
+        type: Number,
+        required: true
+    },
+    imageurls: [],
+    currentbookings: [],
+    facilities: {
+        type: String,
+        required: true
+    },
+
+    date: true,
+    
+
+}, {
+    timestamps: true,
+})

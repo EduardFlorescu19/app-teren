@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Stadionul Central",
+    "phone_number": 1234567890,
+    "price_per_hour": 50,
+    "imageurls": ["https://ibb.co/qRBvxdB"],
+    "currentbookings": [],
+    "facilities": "Iluminat nocturn, teren acoperit",
+    
+  },
+  {
+    "name": "Terenul Verde",
+    "phone_number": 9876543210,
+    "price_per_hour": 40,
+    "imageurls": ["https://ibb.co/qRBvxdB"],
+    "currentbookings": [],
+    "facilities": "Gazon natural, vestiare",
+    
+  },
+  {
+    "name": "Stadionul Copiilor",
+    "phone_number": 5555555555,
+    "price_per_hour": 30,
+    "imageurls": ["https://ibb.co/qRBvxdB"],
+    "currentbookings": [],
+    "facilities": "Teren mic pentru copii, loc de joacă",
+    
+  }
+]
